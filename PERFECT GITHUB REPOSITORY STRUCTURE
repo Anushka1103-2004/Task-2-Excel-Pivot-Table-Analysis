@@ -1,0 +1,18 @@
+Task-2-Excel-Pivot-Analysis/
+│
+├── data/
+│   └── Superstore_Sales_Dataset.xlsx
+│
+├── analysis/
+│   ├── Pivot_Report.xlsx
+│   └── Pivot_Report.pdf
+│
+├── insights/
+│   └── Insights.txt
+│
+├── screenshots/
+│   ├── pivot_sales_by_category.png
+│   ├── pivot_region_segment.png
+│   └── dashboard_with_slicers.png
+│
+└── README.md
